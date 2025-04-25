@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Chatgpt_1\miniproject2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+292143002.index
+2611483308.index
+2039637018.index
+3467424975.index
+1878391093.index
+3124056592.index

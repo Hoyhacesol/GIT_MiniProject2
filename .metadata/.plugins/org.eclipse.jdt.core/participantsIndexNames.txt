@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Chatgpt_1\miniproject2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2147971784.index
+\Board\src\main\java
+C:\Chatgpt_1\miniproject2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239965296.index
+\Weekend\src\main\java
+C:\Chatgpt_1\miniproject2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\251791857.index
+\Weekend\src\main\java
+C:\Chatgpt_1\miniproject2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\284367512.index
+\CommunityBoard\src\main\java
